@@ -23,14 +23,6 @@ A powerful Discord bot that manages server suggestions with advanced features an
 
 ## 📋 Commands
 
-### User Commands
-```
-/suggest [suggestion] - Create a new suggestion
-/viewsuggestion [id] - View a specific suggestion
-/mysuggestions - View your suggestion history
-/suggest-edit [id] [content] - Edit your suggestion
-```
-
 ### Admin Commands
 ```
 /suggestions setup - Configure suggestion system
