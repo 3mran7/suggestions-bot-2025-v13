@@ -6,10 +6,7 @@ A powerful Discord bot that manages server suggestions with advanced features an
   <img src="your_bot_banner.png" alt="Suggestions Bot Banner" width="600"/>
 
   ![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-  [![Discord](https://img.shields.io/badge/Add_To_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 </div>
 
 ## ✨ Features
@@ -23,20 +20,6 @@ A powerful Discord bot that manages server suggestions with advanced features an
 - **Customization**
   - Custom embed colors
   - Custom suggestion layouts
-  - Configurable suggestion requirements
-  - Role-based permissions
-
-- **Moderation Tools**
-  - Accept/Deny suggestions
-  - Remove inappropriate suggestions
-  - Blacklist users from suggesting
-  - Suggestion cooldowns
-
-- **Statistics**
-  - Track suggestion metrics
-  - User suggestion history
-  - Most popular suggestions
-  - Voting trends
 
 ## 📋 Commands
 
