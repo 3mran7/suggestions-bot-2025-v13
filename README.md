@@ -27,10 +27,7 @@ A powerful Discord bot that manages server suggestions with advanced features an
 ```
 /suggestions setup - Configure suggestion system
 /suggestions channel [channel] - Set suggestion channel
-/suggestions accept [id] [reason] - Accept a suggestion
-/suggestions deny [id] [reason] - Deny a suggestion
 /suggestions blacklist [user] - Blacklist user from suggesting
-/suggestions config - View current configuration
 ```
 
 ## 🎨 Customization
