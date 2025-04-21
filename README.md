@@ -1,6 +1,88 @@
-# MAYOR - suggestions 2024
+# 🤖 Suggestions Bot
 
-افضل بوت اقتراحات جديد مطور غير مشفر
-فقط حط توكن البوت وايدي الي يعطي بلاك ليست
-وتخليها v20 نفس الفيديو
-discord.gg/mayor
+A powerful Discord bot that manages server suggestions with advanced features and customization options.
+
+<div align="center">
+  <img src="your_bot_banner.png" alt="Suggestions Bot Banner" width="600"/>
+
+  ![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  [![Discord](https://img.shields.io/badge/Add_To_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot)
+</div>
+
+## ✨ Features
+
+- **Advanced Suggestion System**
+  - Create and manage suggestion channels
+  - Custom suggestion formats
+  - Auto-reactions on suggestions
+  - Suggestion tracking and status updates
+
+- **Customization**
+  - Custom embed colors
+  - Custom suggestion layouts
+  - Configurable suggestion requirements
+  - Role-based permissions
+
+- **Moderation Tools**
+  - Accept/Deny suggestions
+  - Remove inappropriate suggestions
+  - Blacklist users from suggesting
+  - Suggestion cooldowns
+
+- **Statistics**
+  - Track suggestion metrics
+  - User suggestion history
+  - Most popular suggestions
+  - Voting trends
+
+## 📋 Commands
+
+### User Commands
+```
+/suggest [suggestion] - Create a new suggestion
+/viewsuggestion [id] - View a specific suggestion
+/mysuggestions - View your suggestion history
+/suggest-edit [id] [content] - Edit your suggestion
+```
+
+### Admin Commands
+```
+/suggestions setup - Configure suggestion system
+/suggestions channel [channel] - Set suggestion channel
+/suggestions accept [id] [reason] - Accept a suggestion
+/suggestions deny [id] [reason] - Deny a suggestion
+/suggestions blacklist [user] - Blacklist user from suggesting
+/suggestions config - View current configuration
+```
+
+## 🎨 Customization
+
+Customize suggestion embeds with:
+- Custom colors for different suggestion statuses
+- Custom fields and layouts
+- Custom reaction emojis
+- Custom suggestion requirements
+
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Support
+
+Join our [MAYOR Server](https://discord.gg/FrS55kteFP) for help and updates!
+
+Created with ❤️ by [MAYOR Studio]
+
+---
+
+<div align="center">
+  
+  [![Discord Server](https://img.shields.io/discord/YOUR_SERVER_ID?color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/your-server)
+  [![GitHub Stars](https://img.shields.io/github/stars/yourusername/suggestions-bot?style=for-the-badge)](https://github.com/yourusername/suggestions-bot/stargazers)
+  [![GitHub License](https://img.shields.io/github/license/yourusername/suggestions-bot?style=for-the-badge)](https://github.com/yourusername/suggestions-bot/blob/main/LICENSE)
+  
+</div>
