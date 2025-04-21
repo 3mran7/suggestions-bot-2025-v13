@@ -25,9 +25,14 @@ A powerful Discord bot that manages server suggestions with advanced features an
 
 ### Admin Commands
 ```
-/suggestions setup - Configure suggestion system
-/suggestions channel [channel] - Set suggestion channel
-/suggestions blacklist [user] - Blacklist user from suggesting
+${prefix}set-channel تحديد روم الاقتراحات
+${prefix}set-line تحديد الخط الي هينرسل تحت الاقتراحات
+${prefix}set-emoji1تحديد الايموجي الاول
+${prefix}set-emoji2 تحديد الايموجي الثاني
+${prefix}cancel-sugg تعطيل روم الاقتراحات
+${prefix}enable-sugg تفعيل روم الاقتراحات
+${prefix}info  لاظهار معلومات البوت
+${prefix}help  لاظهار اوامر البوت
 ```
 
 ## 🎨 Customization
